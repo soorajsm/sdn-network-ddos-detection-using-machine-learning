@@ -1,4 +1,4 @@
-# sdn-network-ddos-detection-using-machine-learning
+# sdn-network-ddos-detection-using-Machine-Learning
 
 - Find dataset here: https://drive.google.com/file/d/1N2QLDPb90XOdxcuQ_Fb7ZSVOG4J3w_zY/view?usp=sharing
 
